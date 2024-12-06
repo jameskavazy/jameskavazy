@@ -4,7 +4,7 @@ Hi 👋 My name is James Kavazy
 Aspring Software Engineer
 -------------------------
 
-I've been learning to code for 18 months now as part of my effort to switch careers. 
+I've been learning to code for about 18 months as part of my effort to switch careers. 
 
 I started learning with Android development using Java, learning the basics and getting to grips with object oriented progamming. My second project is a full stack applicaton using NextJs/React. 
 
