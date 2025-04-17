@@ -8,5 +8,5 @@ I'm a software engineer working within a digital marketing agency, responsible f
 Personal projects:
 * Android dart scoreboard application written in Java, using MVVM architecture and Room DB. 
 * Another project is my full stack poker community application using NextJs/React, for organising home games and calculating payouts.
-
+-------------------------
 *   ✉️  You can contact me at [james.kavazy@gmail.com](mailto:james.kavazy@gmail.com)
